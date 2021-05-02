@@ -1,6 +1,7 @@
 **i understand about Version Control and classified as follows :**
 
  **VCS** :entails one database on your hard disk that stores changes to files.
+ 
  **CVCS** : This system entails a single server storing all changes and file versions.
 
 
