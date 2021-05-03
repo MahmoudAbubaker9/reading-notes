@@ -6,8 +6,6 @@
 
 >** for good Wireframe it Must be Clarity and Simplicity .**
 
-
-
 # Html
 
 *It is a markup language used in creating and designing web pages and websites*
