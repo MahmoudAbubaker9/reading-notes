@@ -19,3 +19,9 @@ CSS (Cascading Style Sheets) is a language for specifying how documents are pres
 }
 
 ![CSS](https://www.w3schools.com/css/selector.gif)
+
+**and we can use reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings,Reset styles quite often appear in CSS frameworks.**
+
+
+
+### [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
