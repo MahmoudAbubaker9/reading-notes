@@ -22,6 +22,9 @@ CSS (Cascading Style Sheets) is a language for specifying how documents are pres
 
 **and we can use reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings,Reset styles quite often appear in CSS frameworks.**
 
-
+**Three Ways to Insert CSS**
+External CSS (preferred)
+Internal CSS
+Inline CSS
 
 ### [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
