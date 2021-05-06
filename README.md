@@ -11,3 +11,4 @@
 |read 03| Structure web pages with HTML | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read03)  |
 |read 04| Design web pages with CSS     | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read04)  |
 |read 05| JavaScript                    | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read05)  |
+|read 06| Loops and iteration           | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read06)  |
