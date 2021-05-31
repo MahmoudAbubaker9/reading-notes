@@ -28,7 +28,7 @@
 |Read 05 |HTML Images; CSS Color & Text                    | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read205)           |
 |Read 06 |JS Object Literals; The DOM                      | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read206)           |
 |Read 07 |HTML Tables; JS Constructor Functions            | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read207)           |
-|Read 08 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
+|Read 08 |More CSS Layout                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read208)           |
 |Read 09 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
 |Read 10 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
 |Read 11 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
