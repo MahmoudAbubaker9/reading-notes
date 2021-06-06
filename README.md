@@ -32,7 +32,7 @@
 |Read 09 |Forms and Events                                 | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read209)           |
 |Read 10 |JS Debugging                                     | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read210)           |
 |Read 11 |Assorted Topics                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read211)           |
-|Read 12 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
+|Read 12 |Chart.js, Canvas                                 | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read212)           |
 |Read 13 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
 |Read 14 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
 |Read 15 |     Title name                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read200)           |
