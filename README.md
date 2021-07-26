@@ -6,7 +6,7 @@
 |-------|--------------------------------------------------|------------------|
 |Read 01 |Introduction to React and Components             | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read301)           |
 |Read 02 |State and Props                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read302)           |
-|Read 03 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read303)           |
+|Read 03 |Passing Functions as Props                       | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read303)           |
 |Read 04 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read304)           |
 |Read 05 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read305)           |
 |Read 06 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read306)           |
