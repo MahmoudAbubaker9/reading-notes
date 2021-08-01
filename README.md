@@ -9,8 +9,8 @@
 |Read 03 |Passing Functions as Props                       | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read303)           |
 |Read 04 |React and Forms                                  | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read304)           |
 |Read 05 |Thinking in React                                | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read305)           |
-|Read 06 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read306)           |
-|Read 07 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read307)           |
+|Read 06 |NODE.JS                                          | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read306)           |
+|Read 07 |REST                                             | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read307)           |
 |Read 08 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read308)           |
 |Read 09 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read309)           |
 |Read 10 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read310)           |
