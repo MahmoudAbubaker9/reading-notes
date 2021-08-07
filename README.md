@@ -14,11 +14,10 @@
 |Read 08 |APIs                                             | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read308)           |
 |Read 09 |FUNCTIONAL PROGRAMMING                           | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read309)           |
 |Read 10 |In memory storage                                | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read310)           |
-|Read 11 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read311)           |
-|Read 12 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read312)           |
-|Read 13 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read313)           |
-|Read 14 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read314)           |
-|Read 15 |ReadNote                                         | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read315)           |
+|Read 11 |Authentication                                   | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read311)           |
+|Read 12 |Mongo and Mongoose                               | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read312)           |
+|Read 13 |CRUD                                             | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read313)           |
+|Read 14 |Diversity & Inclusion in the Tech   Industry                                                   | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read301/Read314)           |
 
 # Code 201 Reading Notes
 
