@@ -1,10 +1,12 @@
-***Hi guys. my name is Mahmoud Abubaker. I have graduated with bachelor degree in mechanical engineering , and I'm Glad to be here with you and wish you all the best.***
+**Hallo My name is Mahmoud Abubaker**
+
+**I am a mechanical engineer graduated from Hashemite University. I have a passion for design and programming and I'm glad to be part of this team.**
 
 # Code 401 Reading Notes
 
 | Name  |   Title                                          |link              |
 |-------|--------------------------------------------------|------------------|
-|Read 01 |Title 01| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read401)           |
+|Read 01 |Java Basics| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read401)           |
 |Read 02 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read402)           |
 |Read 02 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read403)           |
 |Read 03 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read404)           |
@@ -64,7 +66,6 @@
 |Read 13 |Local Storage                                    | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read201/Read213)           |
 |Read 14 |CSS Transforms, Transitions, and Animations      | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read201/Read214)           |
 |Read 15 |Perfect Team                                     | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read201/Read215)           |
-
 
 # Code 102 Reading Notes
 
