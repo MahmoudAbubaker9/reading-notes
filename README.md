@@ -7,7 +7,7 @@
 | Name  |   Title                                          |link              |
 |-------|--------------------------------------------------|------------------|
 |Read 01 |Java Basics| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read401)           |
-|Read 02 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read402)           |
+|Read 02 |Arrays, Loops, Imports| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read402)           |
 |Read 02 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read403)           |
 |Read 03 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read404)           |
 |Read 04 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read405)           |
