@@ -49,6 +49,7 @@ the Bicycle class does not contain a main method. That’s because it’s not a 
 **Decimals**
 
 The Decimal Number System is also called Base 10, because it is based on the number 10, with these 10 symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9
+Type :(float and double)
 
 **Binary**
 
