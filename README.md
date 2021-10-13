@@ -8,16 +8,15 @@
 |-------|--------------------------------------------------|------------------|
 |Read 01 |Java Basics| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read401)           |
 |Read 02 |Arrays, Loops, Imports| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read402)           |
-|Read 02 |Maps, primitives, File I/O| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read403)           |
-|Read 03 |OOP | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read404)           |
-|Read 04 |Linked Lists| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read405)           |
-|Read 05 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read406)           |
-|Read 06 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read407)           |
-|Read 07 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read408)           |
-|Read 08 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read401)           |
+|Read 03 |Maps, primitives, File I/O| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read403)           |
+|Read 04 |OOP | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read404)           |
+|Read 05 |Linked Lists| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read405)           |
+|Read 06 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read406)           |
+|Read 07 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read407)           |
+|Read 08 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read408)           |
 |Read 09 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read409)           |
 |Read 10 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read410)           |
-|Read 11 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read411)           |
+|Read 11 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read411)           |          |
 |Read 12 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read412)           |
 |Read 13 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read413)           |
 |Read 14 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read414)           |
