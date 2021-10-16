@@ -11,7 +11,7 @@
 |Read 03 |Maps, primitives, File I/O| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read403)           |
 |Read 04 |OOP | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read404)           |
 |Read 05 |Linked Lists| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read405)           |
-|Read 06 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read406)           |
+|Read 06 |Inheritance and Interfaces| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read406)           |
 |Read 07 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read407)           |
 |Read 08 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read408)           |
 |Read 09 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read409)           |
