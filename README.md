@@ -14,8 +14,8 @@
 |Read 06 |Inheritance and Interfaces| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read406)           |
 |Read 08 |OO Design| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read408)           |
 |Read 09 |WRRC and Java| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read409)           |
-|Read 10 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read410)           |
-|Read 11 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read411)           |          |
+|Read 10 |Stacks and Queues| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read410)           |
+|Read 11 |Spring| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read411)           |          |
 |Read 12 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read412)           |
 |Read 13 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read413)           |
 |Read 14 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read414)           |
