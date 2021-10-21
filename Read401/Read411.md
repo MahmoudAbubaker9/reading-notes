@@ -5,6 +5,7 @@
 A Spring MVC is a Java framework which is used to build web applications. It follows the Model-View-Controller design pattern. It implements all the basic features of a core spring framework like Inversion of Control, Dependency Injection.
 
 **Create a Web Controller**
+
 @Controller : used for marks a class as Controller and for handling the HTTP requests(controls the flow of the data).
 
 GetMapping : used to map the class with the specified URL name. It ensures the specific HTTP GET requests are maped to specific method.
@@ -35,4 +36,5 @@ The @SessionAttributes annotation is used to store the model attribute in the se
 For more information :
 
 [Spring App Basics](https://spring.io/guides/gs/serving-web-content/)
+
 [Spring MVC and Thymeleaf](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
