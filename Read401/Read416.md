@@ -67,4 +67,5 @@ If you need access to the currently authenticated user in a web endpoint, you ca
 Resource Site :
 
 [Spring Security overview](https://spring.io/guides/topicals/spring-security-architecture/)
+
 [Spring Auth cheat sheet](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
