@@ -23,7 +23,22 @@
 |Read 17 |Spring Authorization| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read417)           |
 |Read 18 |Web App Security| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read418)           |
 |Read 19 |Spring and Sockets| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read419)           |
-|Read 20 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read420)           |
+|Read 26 |Application Fundamentals| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read426)           |
+|Read 27 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read427)           |
+|Read 28 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read428)           |
+|Read 29 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read429)           |
+|Read 30 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read430)           |
+|Read 31 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read431)           |
+|Read 32 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read432)           |
+|Read 33 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read433)           |
+|Read 34 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read434)           |
+|Read 35 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read435)           |
+|Read 36 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read436)           |
+|Read 37 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read437)           |
+|Read 38 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read438)           |
+|Read 39 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read439)           |
+|Read 40 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read440)           |
+|Read 41 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read441)           |
 
 # Code 301 Reading Notes
 
