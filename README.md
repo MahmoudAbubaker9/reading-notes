@@ -25,7 +25,7 @@
 |Read 19 |Spring and Sockets| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read419)           |
 |Read 26 |Application Fundamentals| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read426)           |
 |Read 27 |Intents, Activities, and SharedPreferences| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read427)           |
-|Read 28 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read428)           |
+|Read 28 |RecyclerView| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read428)           |
 |Read 29 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read429)           |
 |Read 30 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read430)           |
 |Read 31 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read431)           |
