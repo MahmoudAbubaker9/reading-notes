@@ -30,7 +30,7 @@
 |Read 30 |Hashtables| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read430)           |
 |Read 31 |Espresso| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read431)           |
 |Read 32 |Serverless and Amplify| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read432)           |
-|Read 33 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read433)           |
+|Read 33 |GraphQL @connection| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read433)           |
 |Read 34 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read434)           |
 |Read 35 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read435)           |
 |Read 36 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read436)           |
