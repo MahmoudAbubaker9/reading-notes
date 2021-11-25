@@ -32,7 +32,7 @@
 |Read 32 |Serverless and Amplify| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read432)           |
 |Read 33 |GraphQL @connection| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read433)           |
 |Read 34 |Monetization| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read434)           |
-|Read 35 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read435)           |
+|Read 35 |Graphs| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read435)           |
 |Read 36 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read436)           |
 |Read 37 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read437)           |
 |Read 38 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read438)           |
