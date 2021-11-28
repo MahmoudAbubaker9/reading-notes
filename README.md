@@ -33,12 +33,16 @@
 |Read 33 |GraphQL @connection| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read433)           |
 |Read 34 |Monetization| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read434)           |
 |Read 35 |Graphs| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read435)           |
-|Read 36 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read436)           |
+|Read 36 |Cognito| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read436)           |
 |Read 37 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read437)           |
 |Read 38 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read438)           |
 |Read 39 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read439)           |
 |Read 40 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read440)           |
 |Read 41 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read441)           |
+|Read 42 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read442)           |
+|Read 43 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read443)           |
+|Read 44 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read444)           |
+|Read 45 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read445)           |
 
 # Code 301 Reading Notes
 
