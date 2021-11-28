@@ -72,3 +72,10 @@ Amplify.Auth.fetchAuthSession(
 
 * Invoke the signOut api to sign out a user from the Auth category. You can only have one user signed in at a given time.
 * Calling signOut without any options will just delete the local cache and keychain of the user. If you would like to sign out of all devices, invoke the signOut api with advanced options.
+
+**************
+**Additional resources**
+
+[Amplify and Cognito](https://docs.amplify.aws/lib/auth/getting-started/)
+
+**************
