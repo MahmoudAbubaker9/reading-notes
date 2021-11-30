@@ -35,8 +35,8 @@
 |Read 35 |Graphs| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read435)           |
 |Read 36 |Cognito| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read436)           |
 |Read 37 |Amazon S3| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read437)           |
-|Read 38 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read438)           |
-|Read 39 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read439)           |
+|Read 38 |Notifications| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read438)           |
+|Read 39 |Kinesis | [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read439)           |
 |Read 40 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read440)           |
 |Read 41 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read441)           |
 |Read 42 |Title| [Click here](https://mahmoudabubaker9.github.io/reading-notes/Read401/Read442)           |
